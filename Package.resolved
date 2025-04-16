@@ -1,0 +1,15 @@
+{
+  "originHash" : "4cc34758dae3608b407c7bd2cb4086d904d30b6fc789b9a0fc3b1810741ebca2",
+  "pins" : [
+    {
+      "identity" : "fullyrestful",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/southkin/FullyRESTful.git",
+      "state" : {
+        "revision" : "27743ca9c256a055c16ec0b8ab966223a589720f",
+        "version" : "3.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
