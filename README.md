@@ -154,3 +154,9 @@ You deserve to sleep.
 
 Let HasLazyServer handle the weird stuff.
 And protect your mental health — it's the only real production system you run.
+
+---
+
+## 📄 License
+
+MIT License
